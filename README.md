@@ -35,5 +35,5 @@ I'm an asipring Data Analyst looking to dive into the scope of data-driven work 
 
 ## Featured Projects
 - [Predict-Athlete](https://github.com/PredictBigDataProj/Predict-Athlete): Predictive analytics project.
-- [Student Conduct Tracker](https://github.com/Tyrell-Lewis/500BrainNotWorking): Web application for monitoring student behavior.
+- [Student Conduct Tracker](https://github.com/500BrainNotWorking/Student-Conduct-Tracker-1): Web application for monitoring student behavior.
 - [E-commerce Website](https://github.com/Tyrell-Lewis/E-commerce-Website): E-commerce shopping platform.
