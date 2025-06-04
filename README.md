@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# I'm Tyrell Lewis
+# Hi, I'm Tyrell Lewis
 
 I'm an aspiring data analyst with a background in programming and a passion for turning data into actionable insights.
 
