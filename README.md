@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Tyrell Lewis
 
-I'm an aspiring data analyst with a background in programming and a passion for turning data into actionable insights.
+I'm an asipring Data Analyst looking to dive into the scope of data-driven work to discover underlying patterns and trends to help individuals and businesses make the most informed decisions possible. My goal is to one day be part of the sports scene and leverage data analytical skills to aid in talent discovering and development.
 
 ## Technical Skills
 
